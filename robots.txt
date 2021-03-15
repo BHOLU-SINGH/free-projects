@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /search
 Allow: /
-index.html
+
+Sitemap: https://freeprojects1.xyz/
